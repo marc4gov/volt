@@ -6,158 +6,372 @@
 
 ---
 
+---
+
 ## **Inleiding**
 
-Volt streeft naar een welvarend en autonoom Europa dat duurzame energie en grondstoffen gebruikt om duurzame producten en diensten te ontwerpen, maken en recyclen. Dit document biedt een **toekomstvisie voor de Europese en Nederlandse industrie**, gebaseerd op een analyse van de huidige uitdagingen en kansen. We richten ons op **haalfbare, impactvolle thema’s** waar Volt daadwerkelijk verschil kan maken.
+Volt streeft naar een **welvarend en autonoom Europa** dat duurzaam leeft binnen de grenzen van de planeet. Onze **toekomstvisie voor de fysieke omgeving** is:
+
+> *Een welvarend en autonoom Europa dat met voornamelijk eigen duurzame energie en grondstoffen op eigen bodem, door middel van duurzame productieprocessen, duurzame producten en diensten ontwerpt, maakt en recycleert. Een Europa dat in een florerende economie handelt binnen de unie en met de wereld in zulke producten en diensten. En last but not least een Europa dat, uit welbegrepen eigenbelang, met respect voor alle facetten van de planeet, inclusief klimaat, een gezond leefklimaat in stand houdt en verbetert voor mens, plant en dier.*
+
+---
 
 ---
 
 ## **Toekomstvisie voor de Europese Industrie**
 
-Onze visie:
-
-> *Een welvarend en autonoom Europa dat met voornamelijk eigen duurzame energie en grondstoffen op eigen bodem, door middel van duurzame productieprocessen, duurzame producten en diensten ontwerpt, maakt en recycleert.*
-
-Deze visie is te bereiken door **gerichte industriepolitiek** met drie pijlers:
-
-1. **Overkoepelende thema’s** ontwikkelen en implementeren voor de maakindustrie.
-2. **Uitfaseren** van vervuilende, energie-intensieve subsectoren met een te groot ruimtebeslag.
-3. **Subsectoren met toekomstperspectief** ontwikkelen tot wereldkampioenen.
+Om onze keuzes te onderbouwen, analyseren we de **waardeketen (supply chain)** van de industrie. Deze keten is de ruggengraat van welvaart.
 
 ---
 
-## **Constatering: De Rol van Industrie in Welvaart**
+### **Flow 1: De Waardeketen (Supply Chain) van de Industrie**
 
-Industrie, landbouw, veeteelt en visserij vormen de **basis van onze economie**. Ze zorgen voor de productie van grondstoffen, energie en goederen die onze welvaart mogelijk maken. De afgelopen 150-200 jaar hebben deze sectoren zich continu ontwikkeld, gedreven door technologische vooruitgang.
+```
+Grondstoffen
+│
+├── Uit de **grond** (bijv. metalen, mineralen)
+├── Uit de **zee** (bijv. vis, zout)
+└── Uit de **lucht** (bijv. CO₂ voor synthetische brandstoffen)
+│
+↓
+Productie
+│
+├── Met behulp van:
+│   ├── **Kennis** (innovatie, R&D)
+│   ├── **Arbeid** (menselijk kapitaal)
+│   └── **Energie** (fossiel/hernieuwbaar)
+│
+↓
+Producten & Diensten
+│
+├── **Consumentenmarkt (B2C)** (bijv. auto’s, elektronica)
+└── **Bedrijfsmarkt (B2B)** (bijv. machines, investeringsgoederen)
+│
+↓
+Handel (verkoop en distributie)
+│
+└── **Supply Chain Optimalisatie**
+    ├── Re-shoring (terughalen productie)
+    ├── Near-shoring (productie in nabije landen)
+    └── Circulariteit (recycling, hergebruik)
+```
 
-**Uitdagingen:**
+Deze keten wordt **voornamelijk door de markt** onderhouden, met **wetgeving** als sturing (bijv. arbeidswetten, milieu-eisen, subsidies).
 
-- De industrie belast de planeet (CO₂-uitstoot, grondstof- en energieverbruik).
-- Mondiale krachten (geopolitiek, economie) beïnvloeden de waardeketen sterk.
-- Toch blijft de **waardeketen** (supply-chain) de ruggengraat van welvaart, met optimalisaties zoals *re-shoring* en *near-shoring*.
+---
+
+---
+
+## **Constatering: Uitdagingen in de Supply Chain**
+
+Sinds de jaren '70 weten we dat de industrie **belastend is voor de planeet**:
+
+- **CO₂-uitstoot** (broeikasgassen).
+- **Grondstofverbruik** (uitputting van natuurlijke hulpbronnen).
+- **Energieverbruik** (fossiele brandstoffen).
+
+**Oplossingsrichtingen:**
+
+- **Decarbonisatie**: CO₂-beprijzing, CO₂-opslag, CBAM (Carbon Border Adjustment Mechanism).
+- **Energiebesparing**: Efficiëntere processen, hernieuwbare energie.
+- **Circulariteit**: Recycling, alternatieve materialen, gesloten kringen.
+
+---
+
+### **Flow 2: Verduurzaming van de Supply Chain**
+
+```
+Huidige Supply Chain
+│
+├── **Grondstoffen** → ⬆️ CO₂, ⬆️ Energie, ⬆️ Grondstofgebruik
+│   │
+│   ├── Fossiele brandstoffen (olie, gas, kolen)
+│   ├── Metalen (staal, aluminium)
+│   └── Minerale grondstoffen (zand, grind)
+│
+├── **Productie** → ⬆️ CO₂, ⬆️ Energie
+│   │
+│   ├── Energie-intensieve processen (bijv. staal, cement)
+│   ├── Bulkchemie (plastics, kunstmest)
+│   └── Raffinage (olieproducten)
+│
+└── **Producten & Diensten** → ⬆️ Afval, ⬇️ Circulariteit
+    │
+    ├── Wegwerpeconomie (lineair model)
+    └── Beperkte recycling
+
+↓
+
+Toekomstige Duurzame Supply Chain
+│
+├── **Grondstoffen** → ⬇️ CO₂, ⬇️ Energie, ⬇️ Grondstofgebruik
+│   │
+│   ├── Hernieuwbare grondstoffen (bijv. biomassa, gerecyclede materialen)
+│   ├── Kritieke grondstoffen (met verantwoorde winning)
+│   └── Secundaire grondstoffen (recycling)
+│
+├── **Productie** → ⬇️ CO₂, ⬇️ Energie
+│   │
+│   ├── Duurzame energie (zon, wind, waterstof)
+│   ├── Circulaire productieprocessen
+│   └── Energie-efficiënte technologieën (bijv. warmtepompen)
+│
+└── **Producten & Diensten** → ⬇️ Afval, ⬆️ Circulariteit
+    │
+    ├── Repareerbare en langlevige producten
+    ├── Gesloten kringen (100% recycling)
+    └── Dienstverlening in plaats van eigendom (bijv. delen, leasen)
+```
+
+---
 
 ---
 
 ## **Analyse: Focus op de Maakindustrie**
 
-Om tot een **weloverwogen beleid** te komen, hanteren we een stapsgewijze benadering:
+Om tot een **weloverwogen beleid** te komen, hanteren we een stapsgewijze benadering.
+
+---
 
 ### **Criterium A: Grote krachten in de waardeketen**
 
-Energie-extractie, grondstoffen en **basisindustrie** (bijv. staal, cement, bulkchemie) zijn onderhevig aan **mondiale krachten** (geopolitiek, economie). Volt kan hier weinig invloed uitoefenen.  
-→ **Focus op de maakindustrie**: een sector die **lokaal en Europees** beïnvloedbaar is.
+**Vraag:** *Kan Volt invloed uitoefenen op dit aspect, gegeven de mondiale/Europese dynamiek?*
 
-### **Criterium B: Kansrijke Sectoren in de EU Maakindustrie**
+- **Energie-extractie en -aanvoer** (fossiel/hernieuwbaar) → **Nee** (te grote mondiale krachten).
+- **Grondstoffen** → **Nee** (idem).
+- **Basisindustrie** (staal, cement, bulkchemie, bulkplastics) → **Nee** (energie-intensief, gekoppeld aan energie/grondstoffen).
 
-De maakindustrie omvat:
+**Conclusie:** Volt richt zich op de **maakindustrie** (secundair segment), die **lokaal en Europees beïnvloedbaar** is.
 
-- Discrete productie (bijv. computers, machines, auto’s, meubels).
-- Continue productie (bijv. voedingsmiddelen, farmaceutica, fijne chemicaliën).
+---
 
-**Belangrijke indicatoren** (zie **Appendix II** voor gedetailleerde tabellen):
+### **Flow 3: Positie van de Maakindustrie in de Supply Chain**
 
-- **Energie-intensiteit** (GWh per € mld omzet).
-- **CO₂-intensiteit** (kt per € mld omzet).
-- **Gross Operating Rate** (winstmarge, %).
-- **R&D Rate** (investeringen in onderzoek en ontwikkeling, %).
+```
+Supply Chain
+│
+├── **Primaire Sectoren** (Niet focus van Volt)
+│   ├── Energie-extractie (olie, gas, kolen, hernieuwbaar)
+│   ├── Grondstoffenwinning (mijnbouw, landbouw)
+│   └── Basisindustrie (staal, cement, bulkchemie)
+│
+└── **Secundaire Sectoren** (Wél focus van Volt)
+    │
+    └── **Maakindustrie**
+        ├── Discrete productie:
+        │   ├── Computers, elektronica, optische producten
+        │   ├── Machines en apparaten
+        │   ├── Auto’s, aanhangwagens
+        │   ├── Overige transportmiddelen (schepen, vliegtuigen)
+        │   └── Meubels, textiel, sportartikelen
+        │
+        └── Continue productie:
+            ├── Voedingsmiddelen en dranken
+            ├── Fijne chemicaliën
+            ├── Farmaceutische producten
+            └── Reparatie en installatie van machines
+```
 
-**Conclusie:**  
-De EU-maakindustrie heeft een **kleinere ecologische voetafdruk** dan de wereldwijde industrie, maar scoort iets slechter op economische indicatoren. Toch is de sector **klaar voor verduurzaming**, met een **Gross Operating Rate van 5-10%** en een **R&D Rate van 1-15%**.
+---
 
-### **Criterium C: Nederlandse Kansrijke Sectoren**
+### **Criterium B: Kansen in de EU Maakindustrie?**
+
+De maakindustrie is **klaar voor verduurzaming** dankzij:
+
+- **Kleinere ecologische voetafdruk** dan wereldgemiddelde.
+- **Gezonde economische indicatoren** (Gross Operating Rate: 5-10%, R&D Rate: 1-15%).
+
+**Belangrijke indicatoren** zijn te vinden in **Appendix II**.
+
+---
+
+### **Criterium C: Kansen in de Nederlandse Maakindustrie?**
 
 Nederland speelt een **sterke rol** in opkomende technologieën, zoals:
 
-- **Industriële warmtepompen** (>150°C).
-- **Additive manufacturing** (3D-printen).
-- **Chemische recycling** (pyrolyse).
-- **Waterstof-electrolyzers**.
-- **AI voor productieprocessen**.
-
-Dit is mede te danken aan **technologieclusters** (zie **Appendix IV**), zoals:
-
-- **Brainport Eindhoven** (halfgeleiders, high-tech systemen).
-- **Leiden Bio Science Park** (biotech, farmacie).
-- **Energy Valley** (waterstof, offshore wind).
+- Industriële warmtepompen (>150°C).
+- Additive manufacturing (3D-printen).
+- Chemische recycling (pyrolyse, depolymerisatie).
+- Heat batteries (thermische energieopslag).
 
 ---
 
-## **Conclusie: Waarom de Maakindustrie?**
+### **Flow 4: Nederlandse Sterktes in de Supply Chain**
 
-De **Europese en Nederlandse maakindustrie** heeft:  
-✅ Een **sterke uitgangspositie** voor verduurzaming.  
-✅ **Innovatiekracht** (hoge R&D-investeringen).  
-✅ **Lokale beïnvloedbaarheid** (in tegenstelling tot mondiale sectoren zoals energie en grondstoffen).
-
-**Volt kan hier impact maken door:**
-
-1. **Technische overkoepelende thema’s** te ontwikkelen (bijv. recycling, AI, smart watermanagement).
-2. **Vervuilende subsectoren** uit te faseren (bijv. staal, cement, bulkchemie).
-3. **Toekomstgerichte subsectoren** te stimuleren (bijv. halfgeleiders, biotech, cleantech).
+```
+Nederlandse Maakindustrie
+│
+├── **Technologieclusters**
+│   ├── Brainport Eindhoven (Halfgeleiders, high-tech systemen)
+│   ├── Leiden Bio Science Park (Biotech, farmacie)
+│   ├── TU Delft Campus (Quantum, robotica, cleantech)
+│   └── Energy Valley (Waterstof, offshore wind)
+│
+└── **Opkomende Technologieën**
+    ├── TRL 4-7: Warmtepompen, 3D-printen, chemische recycling
+    └── TRL 8-9: AI-native platforms, supercomputing
+```
 
 ---
 
-## **Industriepolitiek: Hoe?**
+---
 
-### **A. Overkoepelende Thema’s voor de Maakindustrie**
+## **Conclusie: Toekomstvisie en Industriepolitiek**
+
+**Toekomstvisie:**
+
+> *Een welvarend en autonoom Europa dat met voornamelijk eigen duurzame energie en grondstoffen op eigen bodem d.m.v. duurzame productieprocessen duurzame producten en diensten ontwerpt, maakt en recycleert.*
+
+**Hoe bereiken we dit?**  
+Door **gerichte industriepolitiek** langs **drie paden**:
+
+---
+
+### **Pad A: Overkoepelende Thema’s voor de Maakindustrie**
+
+**Doel:** Verduurzaming van de **hele supply chain** door integrale aanpak.
 
 
-| **Thema**                                | **Hoe?**                                             | **Impact**                               |
-| ---------------------------------------- | ---------------------------------------------------- | ---------------------------------------- |
-| **Geografische verkorting supply-chain** | Re-shoring, kosteneffectievere productie             | ⬇️ Energieverbruik, ⬇️ CO₂-uitstoot      |
-| **Recycling opschalen**                  | Reparatiebare producten, slimme ontwerpen            | ⬇️ Grondstofgebruik                      |
-| **AI voor productie**                    | Ontwikkelen van sector-specifieke AI                 | ⬆️ Productiviteit, ⬇️ verliezen          |
-| **Smart watermanagement**                | Holistische benadering (klimaat, kwaliteit, gebruik) | ⬆️ Efficiëntie                           |
-| **Bouwen in hout**                       | Fabrieksmatige productie, bamboe als gewas           | ⬇️ CO₂ (opslag in hout), ⬇️ staal/cement |
+| **Thema**               | **Actie**                                     | **Impact op Supply Chain**               |
+| ----------------------- | --------------------------------------------- | ---------------------------------------- |
+| Geografische verkorting | Re-shoring, lokale productie                  | ⬇️ Transport (energie/CO₂), ⬇️ logistiek |
+| Recycling opschalen     | Reparatiebare producten, circulaire ontwerpen | ⬇️ Grondstofgebruik, ⬆️ circulariteit    |
+| AI voor productie       | Sector-specifieke AI-ontwikkeling             | ⬆️ Productiviteit, ⬇️ verliezen          |
+| Smart watermanagement   | Holistische benadering                        | ⬆️ Efficiëntie watergebruik              |
+| Bouwen in hout          | Fabrieksmatige productie, bamboe              | ⬇️ CO₂ (opslag), ⬇️ staal/cement         |
 
 
-### **B. Uitfaseren van Vervuilende Subsectoren**
+---
 
-- **Staalproductie** (bijv. Tata Steel IJmuiden).
-- **Cementproductie**.
-- **Bulkchemie en bulkplastics**.
-- **Olieraffinage**.
+### **Pad B: Uitfaseren Vervuilende Subsectoren**
 
-**Aanpak:**
+**Doel:** Vervuilende, energie-intensieve subsectoren met groot ruimtebeslag **verduurzamen en uitfaseren**.
 
-1. **Ontwikkel verduurzamende technologie** (pilotfabrieken in NL).
-2. **Verplaats productie** naar EU-landen met betere condities (energie, grondstoffen, ruimte).
-3. **Bouw vervuilende productie in NL af** (focus op R&D en kleine schaal).
+**Doelgroepen:**
 
-### **C. Ontwikkelen van Toekomstgerichte Subsectoren**
+- Staalproductie (bijv. Tata Steel IJmuiden).
+- Cementproductie.
+- Bulkchemie en bulkplastics.
+- Olieraffinage.
 
-**Voorbeelden (gebaseerd op Wennink-rapport en Nederlands beleid):**
+---
 
-- **Digitalisering & AI** (halfgeleiders, quantum, fotonica).
-- **Veiligheid & Weerbaarheid** (defensie, satelliettechnologie).
-- **Energie & Klimaattechnologie** (cleantech, waterstof, groene chemie).
-- **Life Sciences & Biotech** (gezondheidsdata, AI in zorg).
+### **Flow 5: Uitfasering en Verduurzaming**
 
-**Nederlandse focusgebieden:**
+```
+Huidige Situatie
+│
+├── **Staalproductie (Tata Steel)**
+│   ├── Hoog energiegebruik (kolen, cokes)
+│   ├── Grote CO₂-uitstoot
+│   └── Ruimtebeslag (IJmond)
+│
+├── **Cementproductie**
+│   ├── Energie-intensief (klinkeren)
+│   └── CO₂-uitstoot (chemische processen)
+│
+└── **Bulkchemie**
+    ├── Grondstofgebruik (olie, gas)
+    └── Afvalstromen
 
-- Halfgeleiders (ASML, NXP).
-- Biotechnologie (Leiden Bio Science Park).
-- Defensiegerelateerde toepassingen (6G, radar, quantum).
-- Machinebouw (high-tech systemen).
+↓
+
+Transitiepad
+│
+├── **Stap 1: Ontwikkel Verduurzamende Technologie**
+│   ├── Pilotfabrieken in Nederland
+│   ├── Waterstof-DRI (Direct Reduced Iron)
+│   └── CCUS (Carbon Capture, Utilization, Storage)
+│
+├── **Stap 2: Verplaats Productie**
+│   ├── Naar EU-landen met:
+│   │   ├── Groene energie (bijv. Zweden, Denemarken)
+│   │   ├── Ruimte (bijv. Oost-Europa)
+│   │   └── Grondstoffen (bijv. ijzererts in Zweden)
+│   └── Behoud kennis en R&D in Nederland
+│
+└── **Stap 3: Bouw Vervuilende Productie Af**
+    ├── Sluiting van niet-verduurzaamde fabrieken
+    └── Herbestemming terreinen (bijv. woningbouw, nieuwe industrie)
+```
+
+---
+
+### **Pad C: Ontwikkelen Subsectoren met Toekomstperspectief**
+
+**Doel:** Subsectoren in de maakindustrie met **toekomstperspectief** ontwikkelen tot wereldkampioenen.
+
+**Focusgebieden (gebaseerd op Wennink en Nederlands beleid):**
+
+- **Digitalisering & AI**: Halfgeleiders (ASML, NXP), quantum, fotonica.
+- **Veiligheid & Weerbaarheid**: Defensie (6G, radar, lasersatellietcommunicatie).
+- **Energie & Klimaat**: Cleantech, electrolyzers, SMR’s, groene chemie.
+- **Life Sciences & Biotech**: Biotech Nexus, Scale-Out Fund, gezondheidsdata.
+
+---
+
+### **Flow 6: Ontwikkeling van Toekomstgerichte Subsectoren**
+
+```
+Subsectoren met Toekomstperspectief
+│
+├── **Digitalisering & AI**
+│   ├── Halfgeleiders (ASML, NXP, CHIPNL)
+│   ├── Quantum computing
+│   └── Fotonica
+│
+├── **Veiligheid & Weerbaarheid**
+│   ├── Europese satellietcapaciteit
+│   ├── Dual-use technologie
+│   └── Nederlandse DARPA
+│
+├── **Energie & Klimaat**
+│   ├── Cleantech (waterstof, offshore wind)
+│   ├── Electrolyzers
+│   ├── Kleine modulaire reactoren (SMR’s)
+│   └── Groene chemie
+│
+└── **Life Sciences & Biotech**
+    ├── Biotech Nexus (nationale coördinator)
+    ├── Scale-Out Fund
+    └── AI in de zorg
+```
+
+---
 
 ---
 
 ## **Next Steps: Van Visie naar Beleid**
 
-Om van deze visie naar **concreet beleid** te komen, stellen we voor:
+---
 
-1. **Intern document** opstellen (samen met Volt-fractie in Tweede Kamer).
-2. **Concept visiedocument** ontwikkelen (à la Volt Voedselvisie).
-3. **Openbaar document** maken (voor extern gebruik).
-4. **Coalitie vormen** in het parlement voor een **initiatiefwet** of andere actie.
-5. **Veldwerk** uitvoeren:
-  - Gesprekken met bedrijven, kennisinstituten, koepelorganisaties.
-  - Projectteam samenstellen (technici, economen, diplomaten).
-6. **Internationale zichtbaarheid** creëren (bijv. spreekbeurt op WEF Davos).
+### **Flow 7: Van Concept naar Implementatie**
+
+```
+1. Intern document (samen met Volt-fractie Tweede Kamer)
+   │
+2. Concept visiedocument (à la Volt Voedselvisie)
+   │
+3. Definitieve versie (openbaar stuk)
+   │
+4. Coalitie vormen in parlement (150 kamerleden)
+   │
+5. Initiatiefwet of andere actie
+   │
+6. Veldwerk:
+   ├── Gesprekken met bedrijven, kennisinstituten, koepels
+   ├── Projectteam (technici, economen, diplomaten)
+   │
+7. Internationale zichtbaarheid (bijv. WEF Davos)
+```
+
+---
 
 ---
 
 ## **Appendices**
+
+---
 
 ### **Appendix I: Staand Beleid Volt**
 
@@ -171,59 +385,91 @@ Om van deze visie naar **concreet beleid** te komen, stellen we voor:
   - **Europese industriële strategie** (clusters, infrastructuur).
   - **Groene economie** (CO₂-heffingen, circulaire productie).
 
+---
+
 ### **Appendix II: Energie-, CO₂-, en Economische Indicatoren per Sector**
 
-*Gedetailleerde tabellen met:*
-
-- **Wereldwijde en EU-cijfers** voor energie-intensiteit, CO₂-intensiteit, Gross Operating Rate, R&D Rate.
-- **Subsectoren van de maakindustrie** (bijv. voedingsmiddelen, chemicaliën, metaal).
-
-*Voorbeeld (samenvatting):*
+#### **Wereldwijde Cijfers**
 
 
-| **Sector**                       | **Gross Operating Rate (%)** | **R&D Rate (%)** | **Energie-intensiteit (GWh/€ bn)** | **CO₂-intensiteit (kt/€ bn)** |
-| -------------------------------- | ---------------------------- | ---------------- | ---------------------------------- | ----------------------------- |
-| Manufacturing (EU)               | 10,8                         | 5,7              | 226                                | 84                            |
-| Chemicals & Pharmaceuticals (EU) | 14,0                         | 6,2              | 248                                | 143                           |
-| Basic Metals (EU)                | 7,0                          | 1,8              | 1.447                              | 354                           |
+| **Sector**                      | **Gross Operating Rate (%)** | **R&D Rate (%)** | **Energie-intensiteit (GWh/€ bn)** | **CO₂-intensiteit (kt/€ bn)** |
+| ------------------------------- | ---------------------------- | ---------------- | ---------------------------------- | ----------------------------- |
+| Agriculture, Forestry & Fishing | 27.4                         | 0.1              | 310                                | 257                           |
+| Mining & Quarrying              | 25.4                         | 0.9              | 211                                | 196                           |
+| Manufacturing                   | 16.1                         | 9.2              | 580                                | 170                           |
+| Electricity, Gas & Water Supply | 15.2                         | 0.7              | 1329                               | 3174                          |
+| Transport & Storage             | 17.0                         | 0.7              | 6945                               | 1604                          |
 
+
+#### **Europese Unie Cijfers**
+
+
+| **Sector**                      | **Gross Operating Rate (%)** | **R&D Rate (%)** | **Energie-intensiteit (GWh/€ bn)** | **CO₂-intensiteit (kt/€ bn)** |
+| ------------------------------- | ---------------------------- | ---------------- | ---------------------------------- | ----------------------------- |
+| Agriculture, Forestry & Fishing | 20.1                         | 0.5              | 569                                | 736                           |
+| Mining & Quarrying              | 18.0                         | 0.4              | 479                                | 207                           |
+| Manufacturing                   | 10.8                         | 5.7              | 226                                | 84                            |
+
+
+#### **Manufacturing Sub-Sectors (Wereldwijd)**
+
+
+| **Sector**                      | **Gross Operating Rate (%)** | **R&D Rate (%)** | **Energie-intensiteit (GWh/€ bn)** | **CO₂-intensiteit (kt/€ bn)** |
+| ------------------------------- | ---------------------------- | ---------------- | ---------------------------------- | ----------------------------- |
+| Food, Drink & Tobacco           | 11.5                         | 2.8              | 556                                | 156                           |
+| Chemicals & Pharmaceuticals     | 11.0                         | 22.4             | 972                                | 250                           |
+| Basic Metals (staal, aluminium) | 7.0                          | 8.5              | 3936                               | 1208                          |
+
+
+#### **Manufacturing Sub-Sectors (EU)**
+
+
+| **Sector**                      | **Gross Operating Rate (%)** | **R&D Rate (%)** | **Energie-intensiteit (GWh/€ bn)** | **CO₂-intensiteit (kt/€ bn)** |
+| ------------------------------- | ---------------------------- | ---------------- | ---------------------------------- | ----------------------------- |
+| Food, Drink & Tobacco           | 6.5                          | 1.1              | 131                                | 50                            |
+| Chemicals & Pharmaceuticals     | 14.0                         | 6.2              | 248                                | 143                           |
+| Basic Metals (staal, aluminium) | 7.0                          | 1.8              | 1447                               | 354                           |
+
+
+---
 
 ### **Appendix III: Opkomende Technologieën voor de Maakindustrie**
 
-*Overzicht van kansrijke technologieën, inclusief:*
 
-- **TRL** (Technology Readiness Level).
-- **Investeringen** (€ mld).
-- **Toepassingsgebieden** (bijv. staal, chemie, elektronica).
+| **Technologie**                     | **Top 5 Landen (EU)**        | **TRL** | **Jaren tot Mainstream** | **Investering (€ mld)** |
+| ----------------------------------- | ---------------------------- | ------- | ------------------------ | ----------------------- |
+| Industrial heat pumps (>150°C)      | Nederland, Duitsland, Zweden | 5       | 6                        | 7.5                     |
+| Additive manufacturing (3D-printen) | Nederland, Duitsland         | 7       | 3                        | 20                      |
+| Chemical recycling                  | Nederland, Duitsland         | 6       | 7                        | 12.5                    |
+| Heat batteries                      | Nederland, Zweden, Finland   | 6       | 4                        | 2.5                     |
 
-*Voorbeeld:*
 
-
-| **Technologie**                | **TRL** | **Jaren tot mainstream** | **Investering (€ mld)** | **Toepassing**           |
-| ------------------------------ | ------- | ------------------------ | ----------------------- | ------------------------ |
-| Industrial heat pumps (>150°C) | 5       | 6                        | 7,5                     | Chemie, voedingsmiddelen |
-| Additive manufacturing         | 7       | 3                        | 20                      | High-tech systemen       |
-| Chemical recycling             | 6       | 7                        | 12,5                    | Circulaire plastics      |
-
+---
 
 ### **Appendix IV: Nederlandse Technologieclusters**
 
-*Overzicht van belangrijke clusters, zoals:*
+
+| **Cluster**             | **Regio** | **Focus**                         | **Werkgelegenheid** | **Belangrijke Spelers** |
+| ----------------------- | --------- | --------------------------------- | ------------------- | ----------------------- |
+| Brainport Eindhoven     | Eindhoven | Halfgeleiders, high-tech systemen | 76.000              | ASML, NXP, Philips      |
+| Leiden Bio Science Park | Leiden    | Biotech, farmacie                 | 27.000              | Janssen, Galapagos      |
+| TU Delft Campus         | Delft     | Quantum, robotica, cleantech      | 10.000              | TU Delft, TNO           |
+| Energy Valley           | Groningen | Waterstof, offshore wind          | 10.000              | Gasunie, TNO            |
 
 
-| **Cluster**             | **Regio** | **Focus**                | **Werkgelegenheid** | **Belangrijke spelers** |
-| ----------------------- | --------- | ------------------------ | ------------------- | ----------------------- |
-| Brainport Eindhoven     | Eindhoven | Halfgeleiders, high-tech | 76.000              | ASML, NXP, Philips      |
-| Leiden Bio Science Park | Leiden    | Biotech, farmacie        | 27.000              | Janssen, Galapagos      |
-| Energy Valley           | Groningen | Waterstof, windenergie   | 10.000              | Gasunie, TNO            |
-
+---
 
 ### **Appendix V: Samenvatting Analyse Wennink-Rapport**
 
-*Vergelijking tussen Wennink-voorstellen en Volt-beleid:*
 
-- **Overeenkomsten**: Focus op **strategische autonomie**, **innovatie**, **Europese samenwerking**.
-- **Verschillen**: Volt kiest voor **brede welvaart** (sociaal + milieu) in plaats van **BBP-groei als kompas**.
+| **Thema**                  | **Samenvatting**                     | **Overeenkomst met Volt**          | **Verschil met Volt**                                          |
+| -------------------------- | ------------------------------------ | ---------------------------------- | -------------------------------------------------------------- |
+| **Strategische autonomie** | Focus op 'strategische relevantie'   | Eens met bewuste industriepolitiek | Volt kiest voor **strategische autonomie + diversificatie**    |
+| **Innovatie**              | Focus op AI, chips, digitalisering   | Eens met strategische domeinen     | Volt benadrukt **circulariteit en duurzaamheid**               |
+| **Energie**                | Goedkope energie als groeivoorwaarde | Eens met aanpakken netcongestie    | Volt: **geen nieuwe gascentrales**, wel kernenergie + zon/wind |
+
+
+---
 
 ---
 
