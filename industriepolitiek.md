@@ -235,7 +235,7 @@ Door **gerichte industriepolitiek** langs **drie paden**:
 ```mermaid
 flowchart TD
     subgraph Huidige Situatie
-        A[Staalproductie\n(Tata Steel)] -->|Hoog energiegebruik| B[Cementproductie]
+        A[Staalproductie\nTata Steel] -->|Hoog energiegebruik| B[Cementproductie]
         A -->|Grote CO₂-uitstoot| C[Bulkchemie]
         B -->|Energie-intensief| C
         C -->|Grondstofgebruik| D[Olieraffinage]
