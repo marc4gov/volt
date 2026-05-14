@@ -287,7 +287,7 @@ flowchart TD
     C --> C2[Dual-use technologie]
     C --> C3[Nederlandse DARPA]
 
-    D --> D1[Cleantech\n(waterstof, wind)]
+    D --> D1[Cleantech\nwaterstof, wind]
     D --> D2[Electrolyzers]
     D --> D3[SMR’s]
     D --> D4[Groene chemie]
