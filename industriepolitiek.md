@@ -33,14 +33,14 @@ flowchart TD
     C --> D[Handel]
     D --> E[Supply Chain Optimalisatie]
 
-    A --> A1[Uit de grond\n(bijv. metalen, mineralen)]
-    A --> A2[Uit de zee\n(bijv. vis, zout)]
-    A --> A3[Uit de lucht\n(bijv. CO₂)]
+    A --> A1[Uit de grond (bijv. metalen, mineralen)]
+    A --> A2[Uit de zee (bijv. vis, zout)]
+    A --> A3[Uit de lucht (bijv. CO₂)]
 
-    B --> B1[Met behulp van:\n- Kennis (R&D)\n- Arbeid\n- Energie]
+    B --> B1[Met behulp van: Kennis (R&D) Arbeid Energie]
 
-    C --> C1[Consumentenmarkt (B2C)\n(bijv. auto’s, elektronica)]
-    C --> C2[Bedrijfsmarkt (B2B)\n(bijv. machines)]
+    C --> C1[Consumentenmarkt (B2C) (bijv. auto’s, elektronica)]
+    C --> C2[Bedrijfsmarkt (B2B) (bijv. machines)]
 
     E --> E1[Re-shoring]
     E --> E2[Near-shoring]
