@@ -1,5 +1,3 @@
----
-
 # Volt Nederland | Toekomstvisie voor een Duurzame Industrie
 *Een industrie die werkt voor mens, planeet en economie*
 
