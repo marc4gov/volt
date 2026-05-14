@@ -279,7 +279,7 @@ flowchart TD
     A --> D[Energie & Klimaat]
     A --> E[Life Sciences & Biotech]
 
-    B --> B1[Halfgeleiders\n(ASML, NXP, CHIPNL)]
+    B --> B1[Halfgeleiders\nASML, NXP]
     B --> B2[Quantum computing]
     B --> B3[Fotonica]
 
