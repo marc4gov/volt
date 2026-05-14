@@ -135,8 +135,8 @@ Om tot een **weloverwogen beleid** te komen, hanteren we een stapsgewijze benade
 
 ```mermaid
 flowchart TD
-    A[Supply Chain] --> B[Primaire Sectoren\n(Niet focus van Volt)]
-    A --> C[Secundaire Sectoren\n(Wél focus van Volt)]
+    A[Supply Chain] --> B[Primaire Sectoren\n Niet focus van Volt]
+    A --> C[Secundaire Sectoren\nWél focus van Volt]
 
     B --> B1[Energie-extractie]
     B --> B2[Grondstoffenwinning]
@@ -181,10 +181,10 @@ flowchart TD
     A[Nederlandse Maakindustrie] --> B[Technologieclusters]
     A --> C[Opkomende Technologieën]
 
-    B --> B1[Brainport Eindhoven\n(Halfgeleiders, high-tech)]
-    B --> B2[Leiden Bio Science Park\n(Biotech, farmacie)]
-    B --> B3[TU Delft Campus\n(Quantum, robotica)]
-    B --> B4[Energy Valley\n(Waterstof, windenergie)]
+    B --> B1[Brainport Eindhoven\nHalfgeleiders, high-tech]
+    B --> B2[Leiden Bio Science Park\nBiotech, farmacie]
+    B --> B3[TU Delft Campus\nQuantum, robotica]
+    B --> B4[Energy Valley\nWaterstof, windenergie]
 
     C --> C1[TRL 4-7:\nWarmtepompen, 3D-printen]
     C --> C2[TRL 8-9:\nAI, supercomputing]
@@ -309,14 +309,14 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[1. Intern document\n(samen met Volt-fractie)] --> B[2. Concept visiedocument\n(à la Volt Voedselvisie)]
-    B --> C[3. Definitieve versie\n(openbaar stuk)]
-    C --> D[4. Coalitie vormen\n(150 kamerleden)]
+    A[1. Intern document\nsamen met Volt-fractie] --> B[2. Concept visiedocument\nà la Volt Voedselvisie]
+    B --> C[3. Definitieve versie\nopenbaar stuk]
+    C --> D[4. Coalitie vormen\n150 kamerleden]
     D --> E[5. Initiatiefwet of actie]
     E --> F[6. Veldwerk]
     F --> F1[Gesprekken met bedrijven]
     F --> F2[Projectteam samenstellen]
-    F --> G[7. Internationale zichtbaarheid\n(bijv. WEF Davos)]
+    F --> G[7. Internationale zichtbaarheid\nbijv. WEF Davos]
 ```
 
 ---
